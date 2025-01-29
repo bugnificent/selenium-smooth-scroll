@@ -1,3 +1,13 @@
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/0f9e2e37-3d0d-4767-a317-a978d0d63ced" height=200/>
+</div>
+
+<div id="user-content-toc">
+  <ul>
+    <summary><h1 style="display: inline-block;">Test Automation Exercises</h1></summary>
+  </ul>
+</div>
+
 ### For this projects, I used:
 - Selenium
 - TestNG
