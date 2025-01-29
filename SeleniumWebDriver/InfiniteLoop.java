@@ -23,8 +23,8 @@ public class Website {
                 "   function step() {" +
                 "      window.scrollBy(0, 10);" + // 10 piksel kaydır
                 "      y += 5;" +
-                "       if (!scDown.getBoundingClientRect().top <= 0) {" +  //scDown elementine kadar kaydir
-                "          requestAnimationFrame(step);" + // Animasyon benzeri efekt
+                "       if (!scDown.getBoundingClientRect().top <= 0) {" +  //Scroll Down until given element
+                "          requestAnimationFrame(step);" + // animation
                 "      }" +
                 "   }" +
                 "   step();" +
@@ -57,9 +57,9 @@ public class Website {
         JavascriptExecutor js = (JavascriptExecutor) Driver.getDriver();
         String script = "function smoothScroll() {" +
                 "   function step() {" +
-                "      window.scrollBy(0, 5);" +  // Her seferinde 5px kaydır
+                "      window.scrollBy(0, 5);" +  // scroll down 5px each
                 "      if (document.documentElement.scrollTop + window.innerHeight < document.documentElement.scrollHeight) {" +
-                "          requestAnimationFrame(step);" +  // Sayfanın sonuna gelmediysek devam et
+                "          requestAnimationFrame(step);" +  // You can put else statement here if you want to stop when you reach scrollheight threshold.
                 "      } " +
                 "   }" +
                 "   step();" +
