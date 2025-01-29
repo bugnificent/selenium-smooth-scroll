@@ -10,6 +10,7 @@ public class Website {
 
     @Test
     public void scrollTest() {
+        
         Driver.getDriver().get("https://yusufasik.com");
 
         WebElement scDown = Driver.getDriver().findElement(By.xpath("//span[.='Copyright']"));
