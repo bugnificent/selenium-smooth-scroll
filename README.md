@@ -1,1 +1,38 @@
-# test-automation
+### For this projects, I used:
+- Selenium
+- TestNG
+- JSON
+<br/>
+
+## Run Locally
+
+Clone the project
+
+```bash
+  git clone https://github.com/velespitt/test-automation
+```
+Open the project file
+
+```bash
+  open pom.xml
+
+  # For Maven
+  mvn test
+
+  # For Gradle
+  gradle test
+```
+# Open IntelliJ IDEA and ensure SeleniumTestProject is loaded
+# Run tests by navigating to:
+# Run > Edit Configurations > Add New Configuration > TestNG
+# Select the test class or package
+# Click the Run button (green arrow)
+
+# License
+
+This repository is licensed under the [MIT License](LICENSE).
+
+---
+
+For questions or suggestions, feel free to reach me through my mail: contact@yusufasik.com
+
