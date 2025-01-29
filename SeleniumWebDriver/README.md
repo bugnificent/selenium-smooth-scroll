@@ -41,7 +41,7 @@ npm install selenium-webdriver
 ### For TestNG
 Add TestNG dependencies to your `pom.xml` file.
 
-```bash
+```
 <dependencies>
     <dependency>
         <groupId>org.testng</groupId>
