@@ -34,13 +34,13 @@ Open the project file
   # For Gradle
   gradle test
 ```
-# Open IntelliJ IDEA and ensure SeleniumTestProject is loaded
-# Run tests by navigating to:
-# Run > Edit Configurations > Add New Configuration > TestNG
-# Select the test class or package
-# Click the Run button (green arrow)
+## Open IntelliJ IDEA and ensure SeleniumTestProject is loaded
+## Run tests by navigating to:
+## Run > Edit Configurations > Add New Configuration > TestNG
+## Select the test class or package
+## Click the Run button (green arrow)
 
-# License
+## License
 
 This repository is licensed under the [Apache License](LICENSE).
 
