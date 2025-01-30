@@ -49,7 +49,7 @@ This repository is licensed under the [Apache License](LICENSE).
 If you would like to contribute to this repository:
 
 1. Fork the repository.
-2. Make your changes or add new accessibility testing results.
+2. Make your changes/fixes or add new features.
 3. Submit a pull request for review.
 
 ---
