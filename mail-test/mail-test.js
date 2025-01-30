@@ -6,9 +6,9 @@ const gmail = require("gmail-tester");
         path.resolve(__dirname, "credentials.json"),
         path.resolve(__dirname, "gmail_token.json"),
         {
-            subject: "Welcome to Confluence 👋",
-            from: "info@e.atlassian.com",
-            to: "contact@yusufasik.com",
+            subject: "Welcome to Confluence 👋", //Replace the subject, emojis are supported.
+            from: "info@e.atlassian.com", //Replace with sender
+            to: "contact@yusufasik.com", //Replace with yours
             wait_time_sec: 10,
             max_wait_time_sec: 30,
             include_body: true
