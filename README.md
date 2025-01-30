@@ -9,9 +9,11 @@
 </div>
 
 ### For this projects, I used:
-- Selenium
+- Selenium WebDriver
 - TestNG
 - JSON
+- Wireshark
+- axe
 <br/>
 
 ## Run Locally
