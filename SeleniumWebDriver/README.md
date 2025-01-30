@@ -72,9 +72,17 @@ If you would like to contribute to this repository:
 
 This repository is licensed under the [Apache License](LICENSE).
 
+## Contributing
+
+If you would like to contribute to this repository:
+
+1. Fork the repository.
+2. Make your changes or add new accessibility testing results.
+3. Submit a pull request for review.
+
 ---
 
-For questions or suggestions, feel free to reach me through my mail: contact@yusufasik.com
+For questions or suggestions, feel free to create an issue in this repository.
 
 
 
