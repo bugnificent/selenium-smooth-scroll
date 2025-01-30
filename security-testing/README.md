@@ -68,7 +68,7 @@ tls.handshake.extensions_server_name contains "yusufasik.com"
 - **JSON**: Standard data format used for storing and exchanging structured information.
 
 ## License
-This project is licensed under the Apache License - see the [Apache](LICENSE) file for details.
+This project is licensed under the [Apache](LICENSE)
 
 ## Contributing
 
