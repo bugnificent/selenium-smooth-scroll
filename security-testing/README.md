@@ -69,8 +69,6 @@ tls.handshake.extensions_server_name contains "yusufasik.com"
 
 ## License
 This project is licensed under the Apache License - see the [Apache](LICENSE) file for details.
-## Contribute
-For questions or suggestions, feel free to reach me through my mail: contact@yusufasik.com
 
 ## Contributing
 
