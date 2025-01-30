@@ -9,7 +9,7 @@
 </div>
 
 ### For this projects, I used:
-- **Selenium WebDriver**
+- *Selenium WebDriver*
 - *TestNG*
 - *JSON*
 - *Wireshark*
