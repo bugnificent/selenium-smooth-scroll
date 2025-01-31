@@ -4,11 +4,9 @@
 
 <div id="user-content-toc">
   <ul>
-    <summary><h1 style="display: inline-block;">Test Automation Exercises</h1></summary>
+    <summary><h1 style="display: inline-block;">Test Automation Repository</h1></summary>
   </ul>
 </div>
-
-# Test Automation Repository
 
 This repository contains a collection of test automation projects utilizing various tools, frameworks, and programming languages to ensure robust software quality.
 
