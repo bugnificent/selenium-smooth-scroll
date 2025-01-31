@@ -22,11 +22,11 @@ This repository includes implementations using:
 ## 📂 Folder Structure
 ```
 📦 test-automation
-├── 📂 mail-test           # Gmail inbox testing using Node.js & Google API
-├── 📂 selenium-test       # UI automation tests with Selenium WebDriver
-├── 📂 security-test       # Network traffic analysis with Wireshark
-├── 📂 accessibility-test  # Accessibility testing using axe
-└── 📜 README.md           # Repository documentation
+├── 📂 mail-test            # Gmail inbox testing using Node.js & Google API
+├── 📂 selenium-test        # UI automation tests with Selenium WebDriver
+├── 📂 security-test        # Network traffic analysis with Wireshark
+├── 📂 accessibility-test   # Accessibility testing using axe
+└── 📜 README.md            # Repository documentation
 ```
 
 ## 🚀 Installation
