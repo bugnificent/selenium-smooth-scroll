@@ -12,8 +12,8 @@ This project uses `gmail-tester` with Google API and OAuth to check the inbox fo
 
 ### 1️⃣ Clone the repository
 ```sh
-git clone <your-repo-url>
-cd <your-repo-folder>
+git clone https://github.com/velespitt/test-automation
+cd mail-test
 ```
 
 ### 2️⃣ Install dependencies
