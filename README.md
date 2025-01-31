@@ -25,7 +25,7 @@ This repository includes implementations using:
 ├── 📂 mail-test        # Gmail inbox testing using Node.js & Google API
 ├── 📂 selenium-tests   # UI automation tests with Selenium WebDriver
 ├── 📂 api-tests        # API testing with JSON and automation scripts
-├── 📂 security-test # Network traffic analysis with Wireshark
+├── 📂 security-test    # Network traffic analysis with Wireshark
 ├── 📂 accessibility    # Accessibility testing using axe
 └── 📜 README.md        # Repository documentation
 ```
