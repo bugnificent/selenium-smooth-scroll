@@ -1,14 +1,10 @@
-<div align="left">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/80728820-e06b-4f96-9c9e-9df46f0cc0a5" width="850" />
-</div>
-
 <div id="user-content-toc">
   <ul>
     <summary><h1 style="display: inline-block;">Test Automation Repository</h1></summary>
+    This repository contains a collection of test automation projects utilizing various tools, frameworks, and programming languages to ensure robust software quality.
+   <img align="left" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/80728820-e06b-4f96-9c9e-9df46f0cc0a5" width="850" />
   </ul>
 </div>
-
-This repository contains a collection of test automation projects utilizing various tools, frameworks, and programming languages to ensure robust software quality.
 
 ## 📌 Overview
 This repository includes implementations using:
