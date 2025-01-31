@@ -8,52 +8,69 @@
   </ul>
 </div>
 
-### For this projects, I used:
-- *Selenium WebDriver*
-- *TestNG*
-- *JSON*
-- *Node.js*
-- *Wireshark*
-- *axe*
-<br/>
+# Test Automation Repository
 
-## Run Locally
+This repository contains a collection of test automation projects utilizing various tools, frameworks, and programming languages to ensure robust software quality.
 
-Clone the project
+## 📌 Overview
+This repository includes implementations using:
+- **Selenium WebDriver** – Automated browser testing.
+- **TestNG** – Java testing framework for structuring and running tests.
+- **JSON** – Configuration and data-driven testing.
+- **Node.js** – Scripting and backend automation.
+- **Wireshark** – Network traffic analysis.
+- **axe** – Accessibility testing.
 
-```bash
-  git clone https://github.com/velespitt/test-automation
+## 📂 Folder Structure
 ```
-Open the project file
-
-```bash
-  open pom.xml
-
-  # For Maven
-  mvn test
-
-  # For Gradle
-  gradle test
+📦 test-automation
+├── 📂 mail-test        # Gmail inbox testing using Node.js & Google API
+├── 📂 selenium-tests   # UI automation tests with Selenium WebDriver
+├── 📂 api-tests        # API testing with JSON and automation scripts
+├── 📂 security-testing # Network traffic analysis with Wireshark
+├── 📂 accessibility    # Accessibility testing using axe
+└── 📜 README.md        # Repository documentation
 ```
-## Open IntelliJ IDEA and ensure SeleniumTestProject is loaded
-## Run tests by navigating to:
-## Run > Edit Configurations > Add New Configuration > TestNG
-## Select the test class or package
-## Click the Run button (green arrow)
 
-## License
+## 🚀 Installation
 
-This repository is licensed under the [Apache License](LICENSE).
+### 1️⃣ Clone the repository
+```sh
+git clone https://github.com/velespitt/test-automation.git
+cd test-automation
+```
 
-## Contributing
+### 2️⃣ Install dependencies (if applicable)
+For Node.js-based projects:
+```sh
+npm install
+```
+For Java-based projects:
+```sh
+mvn clean install
+```
 
-If you would like to contribute to this repository:
+## 📝 Usage
+Each folder contains specific test automation projects. Navigate to the respective folder and follow its README for detailed instructions.
 
+## 🔧 Troubleshooting
+- Ensure all dependencies are installed.
+- Verify API keys and configurations where needed.
+- Check browser compatibility for Selenium tests.
+- Run network-related tests with administrative privileges if necessary.
+
+## 🤝 Contributing
+Contributions are welcome! If you'd like to contribute:
 1. Fork the repository.
-2. Make your changes/fixes or add new features.
-3. Submit a pull request for review.
+2. Create a new branch (`git checkout -b feature-branch`).
+3. Commit your changes (`git commit -m 'Add some feature'`).
+4. Push to the branch (`git push origin feature-branch`).
+5. Open a pull request.
 
----
+## 📜 License
+This project is licensed under the MIT License.
 
 For questions or suggestions, feel free to reach me through my mail: contact@yusufasik.com
 
+---
+✅ Happy Testing!
