@@ -68,7 +68,7 @@ Contributions are welcome! If you'd like to contribute:
 5. Open a pull request.
 
 ## 📜 License
-This project is licensed under the MIT License.
+This project is licensed under the [Apache License](LICENSE)
 
 For questions or suggestions, feel free to reach me through my mail: contact@yusufasik.com
 
