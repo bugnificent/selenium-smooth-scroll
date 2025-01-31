@@ -12,6 +12,7 @@
 - *Selenium WebDriver*
 - *TestNG*
 - *JSON*
+- Node.js
 - *Wireshark*
 - *axe*
 <br/>
