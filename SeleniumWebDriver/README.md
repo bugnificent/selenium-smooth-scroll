@@ -26,7 +26,7 @@ To use this repository, ensure you have the following installed:
 
 ```bash
 git clone https://github.com/velespitt/test-automation.git
-cd test-automation
+cd test-automation/SeleniumWebDriver
 ```
 
 ## Set Up Dependencies
