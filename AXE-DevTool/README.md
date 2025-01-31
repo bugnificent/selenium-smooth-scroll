@@ -41,7 +41,7 @@ Each JSON file includes detailed information about:
 2. Navigate to the repository:
 
    ```bash
-   cd test-automation
+   cd test-automation/mail-test
    ```
 
 3. Open the JSON files in the `AXE-DevTool/` folder using a text editor or JSON viewer to review the accessibility findings.
